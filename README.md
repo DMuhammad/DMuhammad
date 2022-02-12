@@ -1,4 +1,5 @@
 ### Hi there, I'm Muhammad Dzikri 👋
+- 👨‍🎓 I’m currently studying at Universitas Islam Negeri Maulana Malik Ibrahim Malang
 - 🌱 I’m currently learning front end
 - 📫 Reach me on facebook: https://facebook.com/dzikri.404
 <!--

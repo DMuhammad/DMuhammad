@@ -2,10 +2,8 @@
 
 ### Hi there, I'm Muhammad Dzikri 👋
 - 👨‍🎓 I’m currently studying at Universitas Islam Negeri Maulana Malik Ibrahim Malang
-- 🌱 I’m currently learning front end
-- 📫 Reach me on facebook: https://facebook.com/dzikri.404
+- 🌱 I’m currently learning fullstack javascript
 
-- 
 [![Linkedin Badge](https://img.shields.io/badge/-dzikrimuhammad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dzikrimuhammad/)](https://www.linkedin.com/in/dzikrimuhammad/)
 [![Gmail Badge](https://img.shields.io/badge/-notfnd123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:notfnd123@gmail.com)](mailto:notfnd123@gmail.com)
 
@@ -33,6 +31,7 @@
 
 Here are some ideas to get you started:
 
+- 📫 Reach me on facebook: https://facebook.com/dzikri.404
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -43,5 +42,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DMuhammad&show_icons=true&theme=radical)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=DMuhammad.DMuhammad)
 
